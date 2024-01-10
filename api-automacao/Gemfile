@@ -1,0 +1,12 @@
+# frozen_string_literal: true
+
+source 'http://rubygems.org'
+
+gem 'allure-cucumber'
+gem 'cucumber'
+gem 'httparty'
+gem 'json'
+gem 'jsonpath'
+gem 'pry'
+gem 'rspec'
+gem 'report_builder'
